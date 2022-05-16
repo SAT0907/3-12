@@ -1,0 +1,2 @@
+module HoomesHelper
+end
